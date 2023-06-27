@@ -1,0 +1,29 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+
+}
+
+h2 {
+    background-color: mediumspringgreen;
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.link {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+#Frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
